@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50db2800-02f3-44a0-8c64-f1ba352469e2" name="Default Changelist" comment="" />
+    <list default="true" id="50db2800-02f3-44a0-8c64-f1ba352469e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Design Patterns - Part 1/Exercises/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design Patterns - Part 1/Solutions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/onurtogan/designpatterns/strategy/chatClient/AES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/onurtogan/designpatterns/strategy/chatClient/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/onurtogan/designpatterns/strategy/chatClient/ChatClientDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/onurtogan/designpatterns/strategy/chatClient/DES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/onurtogan/designpatterns/strategy/chatClient/EncryptionAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/onurtogan/designpatterns/strategy/imageStorage/BlackAndWhiteFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/onurtogan/designpatterns/strategy/imageStorage/Compressor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/onurtogan/designpatterns/strategy/imageStorage/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/onurtogan/designpatterns/strategy/imageStorage/ImageStorageDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/onurtogan/designpatterns/strategy/imageStorage/JpegCompressor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/onurtogan/designpatterns/strategy/imageStorage/PngCompressor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Patterns - Part 1/Exercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Patterns - Part 1/Exercises/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Patterns - Part 1/Solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Patterns - Part 1/Solutions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/onurtogan/designpatterns/strategy/imageStorage/ImageStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/onurtogan/designpatterns/strategy/imageStorage/ImageStorage.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,13 +35,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YXe9RxFpxJct0OjuReWzi8vIM3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Design Patterns - Part 1/Exercises" />
@@ -40,17 +66,31 @@
       <recent name="com.onurtogan.designpatterns.momento.editor" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.onurtogan.designpatterns.strategy.chatClient" />
       <recent name="com.onurtogan.designpatterns.state.directionService" />
       <recent name="com.onurtogan.designpatterns.momento" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProductCollectionDemo">
+  <component name="RunManager" selected="Application.ChatClientDemo">
     <configuration name="BrowserHistoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.onurtogan.designpatterns.iterator.browseHistory.BrowserHistoryDemo" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.onurtogan.designpatterns.iterator.browseHistory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.onurtogan.designpatterns.strategy.chatClient.ChatClientDemo" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.onurtogan.designpatterns.strategy.chatClient.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,9 +125,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.BrowserHistoryDemo" />
       <item itemvalue="Application.ProductCollectionDemo" />
+      <item itemvalue="Application.ChatClientDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChatClientDemo" />
         <item itemvalue="Application.ProductCollectionDemo" />
         <item itemvalue="Application.BrowserHistoryDemo" />
       </list>
@@ -103,7 +145,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583093215012</updated>
-      <workItem from="1583093218976" duration="9905000" />
+      <workItem from="1583093218976" duration="12229000" />
     </task>
     <servers />
   </component>
@@ -111,10 +153,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="3005" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1583117776882">
+    <state x="3005" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1583124543768">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state x="3005" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583117776882" />
+    <state x="3005" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583124543768" />
     <state x="2996" y="225" width="526" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583102838364">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
@@ -123,22 +165,22 @@
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
     <state x="2980" y="95" key="FileChooserDialogImpl/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583099374921" />
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1583119413763">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1583125333773">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583119413763" />
-    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1583119413763">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583125333773" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1583125333773">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583119413763" />
-    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1583119413763">
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583125333773" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1583125333772">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583119413763" />
-    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1583119413763">
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583125333772" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1583125333773">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583119413763" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583125333773" />
     <state x="2863" y="-45" width="672" height="678" key="search.everywhere.popup" timestamp="1583119058747">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>

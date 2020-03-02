@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e00fccb7-aa77-4407-ace5-1ab3c6c47b84" name="Default Changelist" comment="" />
+    <list default="true" id="e00fccb7-aa77-4407-ace5-1ab3c6c47b84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Solutions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/chatClient/AES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/chatClient/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/chatClient/ChatClientDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/chatClient/DES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/chatClient/EncryptionAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/imageStorage/BlackAndWhiteFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/imageStorage/Compressor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/imageStorage/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/imageStorage/ImageStorageDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/imageStorage/JpegCompressor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/imageStorage/PngCompressor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Solutions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DesignPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DesignPatterns/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/imageStorage/ImageStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/imageStorage/ImageStorage.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,12 +36,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="967" />
     <option name="height" value="568" />
   </component>
   <component name="ProjectId" id="1YXqdrRZsW4ZtGhBF6ZwqQ2JGBO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -67,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579280711897</updated>
-      <workItem from="1583099377704" duration="2236000" />
+      <workItem from="1583099377704" duration="3065000" />
     </task>
     <servers />
   </component>
