@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf728914-4ea6-4c63-8476-84c576efe9a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercises/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/chatClient/AES.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/chatClient/ChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/chatClient/ChatClientDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/chatClient/DES.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/chatClient/EncryptionAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/imageStorage/BlackAndWhiteFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/imageStorage/Compressor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/imageStorage/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/imageStorage/ImageStorageDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/imageStorage/JpegCompressor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/imageStorage/PngCompressor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DesignPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DesignPatterns/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/imageStorage/ImageStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/strategy/imageStorage/ImageStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/template/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DesignPatterns/src/com/onurtogan/designpatterns/template/auditTrial/Task.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +26,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="967" />
-    <option name="height" value="568" />
   </component>
   <component name="ProjectId" id="1YXqtMj75LSjnkOpdWZi1TnhPIW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -92,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575674457818</updated>
-      <workItem from="1583099501624" duration="4051000" />
+      <workItem from="1583099501624" duration="4818000" />
     </task>
     <servers />
   </component>
