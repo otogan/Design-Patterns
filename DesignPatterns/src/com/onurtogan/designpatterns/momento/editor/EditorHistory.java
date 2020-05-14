@@ -1,20 +1,15 @@
 package com.onurtogan.designpatterns.momento.editor;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.LinkedList;
 
 public class EditorHistory {
-    private List<EditorState> states = new ArrayList<>();
+    private LinkedList<EditorState> states = new LinkedList<>();
 
     public void push(EditorState state) {
-        states.add(state);
+        states.push(state);
     }
 
     public EditorState pop() {
-        var lastIndex = states.size() - 1;
-        var lastState = states.get(lastIndex);
-        states.remove(lastIndex);
-
-        return lastState;
+        return states.pop();
     }
 }

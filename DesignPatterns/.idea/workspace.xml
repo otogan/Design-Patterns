@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50db2800-02f3-44a0-8c64-f1ba352469e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Design Patterns - Part 1/Exercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Patterns - Part 1/Exercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Design Patterns - Part 1/Solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Patterns - Part 1/Solutions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/onurtogan/designpatterns/template/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/onurtogan/designpatterns/template/auditTrial/Task.java" afterDir="false" />
-    </list>
+    <list default="true" id="50db2800-02f3-44a0-8c64-f1ba352469e2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -133,6 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583093215012</updated>
       <workItem from="1583093218976" duration="14822000" />
+      <workItem from="1584027711372" duration="214000" />
     </task>
     <task id="LOCAL-00001" summary="template method pattern">
       <created>1583125769067</created>
@@ -159,6 +169,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="template method pattern" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="3598" y="-95" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584027858576">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state x="3598" y="-95" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1584027858576" />
     <state x="3005" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1583124543768">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
@@ -171,10 +185,10 @@
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
     <state x="2728" y="-66" key="CommitChangelistDialog2/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583125921779" />
-    <state x="2980" y="95" key="FileChooserDialogImpl" timestamp="1583187454605">
+    <state x="2980" y="95" key="FileChooserDialogImpl" timestamp="1584027912946">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
-    <state x="2980" y="95" key="FileChooserDialogImpl/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583187454605" />
+    <state x="2980" y="95" key="FileChooserDialogImpl/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1584027912946" />
     <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1583892212701">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
@@ -195,6 +209,10 @@
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
     <state x="2792" y="73" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1583125945483" />
+    <state x="2896" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1584027902607">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state x="2896" y="164" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1584027902607" />
     <state x="2863" y="-45" width="672" height="678" key="search.everywhere.popup" timestamp="1583119058747">
       <screen x="1920" y="-360" width="2560" height="1400" />
     </state>
